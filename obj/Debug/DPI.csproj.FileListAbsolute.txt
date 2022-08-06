@@ -1,0 +1,100 @@
+C:\Users\НР\Desktop\DPI\DPI\bin\Debug\DPI.exe.config
+C:\Users\НР\Desktop\DPI\DPI\bin\Debug\DPI.exe
+C:\Users\НР\Desktop\DPI\DPI\bin\Debug\DPI.pdb
+C:\Users\НР\Desktop\DPI\DPI\obj\Debug\DPI.csproj.AssemblyReference.cache
+C:\Users\НР\Desktop\DPI\DPI\obj\Debug\DPI.Form1.resources
+C:\Users\НР\Desktop\DPI\DPI\obj\Debug\DPI.Properties.Resources.resources
+C:\Users\НР\Desktop\DPI\DPI\obj\Debug\DPI.csproj.GenerateResource.cache
+C:\Users\НР\Desktop\DPI\DPI\obj\Debug\DPI.csproj.CoreCompileInputs.cache
+C:\Users\НР\Desktop\DPI\DPI\obj\Debug\DPI.exe
+C:\Users\НР\Desktop\DPI\DPI\obj\Debug\DPI.pdb
+C:\Users\НР\Desktop\DPI\DPI\obj\Debug\DPI.addclass.resources
+C:\Users\НР\Desktop\DPI\DPI\obj\Debug\DPI.addnorm.resources
+C:\Users\НР\Desktop\DPI\DPI\obj\Debug\DPI.adduch.resources
+C:\Users\НР\Desktop\DPI\DPI\obj\Debug\DPI.menu.resources
+C:\Users\НР\Desktop\DPI\DPI\obj\Debug\DPI.choose.resources
+C:\Users\НР\Desktop\DPI\DPI\obj\Debug\DPI.clotch.resources
+C:\Users\НР\Desktop\DPI\DPI\obj\Debug\DPI.navigate.resources
+C:\Users\НР\Desktop\DPI\DPI\obj\Debug\DPI.persotch.resources
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\obj\Debug\DPI.csproj.AssemblyReference.cache
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\obj\Debug\DPI.exe
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\obj\Debug\DPI.pdb
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\obj\Debug\DPI.addclass.resources
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\obj\Debug\DPI.addnorm.resources
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\obj\Debug\DPI.adduch.resources
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\obj\Debug\DPI.choose.resources
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\obj\Debug\DPI.Form1.resources
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\obj\Debug\DPI.menu.resources
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\obj\Debug\DPI.navigate.resources
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\obj\Debug\DPI.Properties.Resources.resources
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\obj\Debug\DPI.csproj.GenerateResource.cache
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\obj\Debug\DPI.csproj.CoreCompileInputs.cache
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\DPI.exe.config
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\DPI.exe
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\DPI.pdb
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\Google.Protobuf.dll
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\MySql.Data.dll
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\System.Buffers.dll
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\System.Memory.dll
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\ZstdNet.dll
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\Google.Protobuf.xml
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\MySql.Data.xml
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\System.Buffers.xml
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\System.Memory.xml
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\obj\Debug\DPI.clotch.resources
+C:\Users\Ерлан\Desktop\ЖАСИК УЧЕБА\DPI\DPI\obj\Debug\DPI.persotch.resources
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\obj\Debug\DPI.csproj.AssemblyReference.cache
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\obj\Debug\DPI.addclass.resources
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\obj\Debug\DPI.addnorm.resources
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\obj\Debug\DPI.adduch.resources
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\obj\Debug\DPI.choose.resources
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\obj\Debug\DPI.clotch.resources
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\obj\Debug\DPI.Form1.resources
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\obj\Debug\DPI.menu.resources
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\obj\Debug\DPI.navigate.resources
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\obj\Debug\DPI.persotch.resources
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\obj\Debug\DPI.Properties.Resources.resources
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\obj\Debug\DPI.csproj.GenerateResource.cache
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\obj\Debug\DPI.csproj.CoreCompileInputs.cache
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\obj\Debug\DPI.exe
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\obj\Debug\DPI.pdb
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\DPI.exe.config
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\DPI.exe
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\DPI.pdb
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\Google.Protobuf.dll
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\MySql.Data.dll
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\System.Buffers.dll
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\System.Memory.dll
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\ZstdNet.dll
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\Google.Protobuf.pdb
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\Google.Protobuf.xml
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\MySql.Data.xml
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\System.Buffers.xml
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\System.Memory.xml
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\obj\Debug\DPI.csproj.CopyComplete
+C:\Users\peces\Downloads\DPIредактленово\DPI\DPI\obj\Debug\DPI.registr.resources
