@@ -33,21 +33,21 @@ namespace DPI
             this.label3 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.egoldsGoogleTextBox6 = new expert.EgoldsGoogleTextBox();
-            this.egoldsGoogleTextBox5 = new expert.EgoldsGoogleTextBox();
             this.panel2 = new System.Windows.Forms.Panel();
             this.label8 = new System.Windows.Forms.Label();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
-            this.egoldsGoogleTextBox4 = new expert.EgoldsGoogleTextBox();
-            this.egoldsGoogleTextBox3 = new expert.EgoldsGoogleTextBox();
-            this.egoldsGoogleTextBox2 = new expert.EgoldsGoogleTextBox();
-            this.egoldsGoogleTextBox1 = new expert.EgoldsGoogleTextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.toolTip2 = new System.Windows.Forms.ToolTip(this.components);
+            this.egoldsGoogleTextBox6 = new expert.EgoldsGoogleTextBox();
+            this.egoldsGoogleTextBox5 = new expert.EgoldsGoogleTextBox();
+            this.egoldsGoogleTextBox4 = new expert.EgoldsGoogleTextBox();
+            this.egoldsGoogleTextBox3 = new expert.EgoldsGoogleTextBox();
+            this.egoldsGoogleTextBox2 = new expert.EgoldsGoogleTextBox();
+            this.egoldsGoogleTextBox1 = new expert.EgoldsGoogleTextBox();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
@@ -91,6 +91,93 @@ namespace DPI
             this.panel1.TabIndex = 90;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
+            // panel2
+            // 
+            this.panel2.Controls.Add(this.label8);
+            this.panel2.Controls.Add(this.radioButton1);
+            this.panel2.Controls.Add(this.radioButton2);
+            this.panel2.Location = new System.Drawing.Point(21, 435);
+            this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(401, 103);
+            this.panel2.TabIndex = 128;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.BackColor = System.Drawing.Color.White;
+            this.label8.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label8.Location = new System.Drawing.Point(12, 16);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(68, 26);
+            this.label8.TabIndex = 96;
+            this.label8.Text = "Пол : ";
+            // 
+            // radioButton1
+            // 
+            this.radioButton1.AutoSize = true;
+            this.radioButton1.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.radioButton1.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.radioButton1.Location = new System.Drawing.Point(15, 57);
+            this.radioButton1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.radioButton1.Name = "radioButton1";
+            this.radioButton1.Size = new System.Drawing.Size(131, 31);
+            this.radioButton1.TabIndex = 98;
+            this.radioButton1.TabStop = true;
+            this.radioButton1.Text = "Мужской";
+            this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
+            // 
+            // radioButton2
+            // 
+            this.radioButton2.AutoSize = true;
+            this.radioButton2.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.radioButton2.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.radioButton2.Location = new System.Drawing.Point(220, 57);
+            this.radioButton2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.radioButton2.Name = "radioButton2";
+            this.radioButton2.Size = new System.Drawing.Size(129, 31);
+            this.radioButton2.TabIndex = 99;
+            this.radioButton2.TabStop = true;
+            this.radioButton2.Text = "Женский";
+            this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
+            // 
+            // progressBar1
+            // 
+            this.progressBar1.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.progressBar1.Location = new System.Drawing.Point(36, 543);
+            this.progressBar1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.progressBar1.Name = "progressBar1";
+            this.progressBar1.Size = new System.Drawing.Size(371, 23);
+            this.progressBar1.TabIndex = 126;
+            // 
+            // button1
+            // 
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Times New Roman", 13.8F);
+            this.button1.Location = new System.Drawing.Point(36, 580);
+            this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(371, 41);
+            this.button1.TabIndex = 116;
+            this.button1.Text = "Сохранить";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.SystemColors.Highlight;
+            this.label1.Font = new System.Drawing.Font("Verdana", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label1.ForeColor = System.Drawing.Color.Lavender;
+            this.label1.Location = new System.Drawing.Point(476, 15);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(34, 34);
+            this.label1.TabIndex = 91;
+            this.label1.Text = "Х";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
+            // 
             // egoldsGoogleTextBox6
             // 
             this.egoldsGoogleTextBox6.BackColor = System.Drawing.Color.White;
@@ -109,6 +196,7 @@ namespace DPI
             this.egoldsGoogleTextBox6.TextPreview = "Введите пароль";
             this.egoldsGoogleTextBox6.UseSystemPasswordChar = false;
             this.egoldsGoogleTextBox6.TextChanged += new System.EventHandler(this.egoldsGoogleTextBox6_TextChanged);
+            this.egoldsGoogleTextBox6.Click += new System.EventHandler(this.egoldsGoogleTextBox6_Click);
             // 
             // egoldsGoogleTextBox5
             // 
@@ -128,67 +216,6 @@ namespace DPI
             this.egoldsGoogleTextBox5.TextPreview = "Введите логин";
             this.egoldsGoogleTextBox5.UseSystemPasswordChar = false;
             this.egoldsGoogleTextBox5.TextChanged += new System.EventHandler(this.egoldsGoogleTextBox5_TextChanged);
-            // 
-            // panel2
-            // 
-            this.panel2.Controls.Add(this.label8);
-            this.panel2.Controls.Add(this.radioButton1);
-            this.panel2.Controls.Add(this.radioButton2);
-            this.panel2.Location = new System.Drawing.Point(21, 435);
-            this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(401, 103);
-            this.panel2.TabIndex = 128;
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.BackColor = System.Drawing.Color.White;
-            this.label8.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label8.Location = new System.Drawing.Point(12, 16);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(71, 27);
-            this.label8.TabIndex = 96;
-            this.label8.Text = "Пол : ";
-            // 
-            // radioButton1
-            // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.radioButton1.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.radioButton1.Location = new System.Drawing.Point(15, 57);
-            this.radioButton1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(138, 32);
-            this.radioButton1.TabIndex = 98;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "Мужской";
-            this.radioButton1.UseVisualStyleBackColor = true;
-            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
-            // 
-            // radioButton2
-            // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.radioButton2.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.radioButton2.Location = new System.Drawing.Point(220, 57);
-            this.radioButton2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(136, 32);
-            this.radioButton2.TabIndex = 99;
-            this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "Женский";
-            this.radioButton2.UseVisualStyleBackColor = true;
-            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
-            // 
-            // progressBar1
-            // 
-            this.progressBar1.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.progressBar1.Location = new System.Drawing.Point(36, 543);
-            this.progressBar1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(371, 23);
-            this.progressBar1.TabIndex = 126;
             // 
             // egoldsGoogleTextBox4
             // 
@@ -265,32 +292,6 @@ namespace DPI
             this.egoldsGoogleTextBox1.TextPreview = "Введите имя преподавателя";
             this.egoldsGoogleTextBox1.UseSystemPasswordChar = false;
             this.egoldsGoogleTextBox1.TextChanged += new System.EventHandler(this.egoldsGoogleTextBox1_TextChanged);
-            // 
-            // button1
-            // 
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Times New Roman", 13.8F);
-            this.button1.Location = new System.Drawing.Point(36, 580);
-            this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(371, 41);
-            this.button1.TabIndex = 116;
-            this.button1.Text = "Сохранить";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.SystemColors.Highlight;
-            this.label1.Font = new System.Drawing.Font("Verdana", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.ForeColor = System.Drawing.Color.Lavender;
-            this.label1.Location = new System.Drawing.Point(481, 15);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(34, 34);
-            this.label1.TabIndex = 91;
-            this.label1.Text = "Х";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // registr
             // 

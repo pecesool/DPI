@@ -34,7 +34,7 @@ namespace DPI
         Classes.FUNC func = new Classes.FUNC();
 
         int visok = 0, sredn = 0, nizk = 0, vnorm = 0, norm = 0, nnorm = 0, estvkk = 0, nevkk = 0, ves, index;
-        string itog, vkk, dddd;
+        string itog, vkk;
         private void clotch_Load(object sender, EventArgs e)
         {
             toolTip1.SetToolTip(this.label7, "Закрыть окно");

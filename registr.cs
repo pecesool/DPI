@@ -106,8 +106,14 @@ namespace DPI
             }
             if (gg.Length == 0) { progressBar1.Value -= 15; b0 = 0; }
         }
-        int pa=0, pa1=0, pa2=0, pa3=0;
-        int s=1, s1=1, s2=1, s3=1;
+        int pa, pa1, pa2, pa3;
+
+        private void egoldsGoogleTextBox6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        int s =1, s1=1, s2=1, s3=1;
         int p;
         private void egoldsGoogleTextBox6_TextChanged(object sender, EventArgs e)
         {
@@ -142,9 +148,9 @@ namespace DPI
                 bool ch=false;
                 for (int i = 0; i < pas.Length; i++)
                 {
-                    if (pas[i] <= '0' && pas[i] >= '9') { ch = true; }
+                    if (pas[i] >= '0' && pas[i] <= '9') { ch = true; } break;
                 }
-                    if (ch == true)
+                    if (ch == false)
                     {
                         progressBar1.Value -= 3; s2 = 1; pa2 = 0;
                     }                
