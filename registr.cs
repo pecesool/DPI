@@ -106,7 +106,7 @@ namespace DPI
             }
             if (gg.Length == 0) { progressBar1.Value -= 15; b0 = 0; }
         }
-        int pa, pa1, pa2, pa3;
+        int pa=0, pa1, pa2, pa3;
 
         private void egoldsGoogleTextBox6_Click(object sender, EventArgs e)
         {
