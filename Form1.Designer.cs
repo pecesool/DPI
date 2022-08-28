@@ -84,7 +84,7 @@ namespace DPI
             this.label6.ForeColor = System.Drawing.Color.Lavender;
             this.label6.Location = new System.Drawing.Point(465, 200);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(191, 27);
+            this.label6.Size = new System.Drawing.Size(183, 26);
             this.label6.TabIndex = 39;
             this.label6.Text = "ПОЛЬЗОВАТЕЛЬ";
             // 
@@ -121,7 +121,7 @@ namespace DPI
             this.label2.ForeColor = System.Drawing.Color.Lavender;
             this.label2.Location = new System.Drawing.Point(1157, 11);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(44, 41);
+            this.label2.Size = new System.Drawing.Size(42, 40);
             this.label2.TabIndex = 92;
             this.label2.Text = "Х";
             this.label2.Click += new System.EventHandler(this.label2_Click);

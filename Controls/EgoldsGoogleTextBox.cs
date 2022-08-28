@@ -35,6 +35,8 @@ namespace expert
         public Color BorderColor { get; set; } = FlatColors.Blue;
         public Color BorderColorNotActive { get; set; } = FlatColors.GrayDark;
 
+        public char PasswordChar { get; set; }
+
         public string TextInput
         {
             get => tbInput.Text;

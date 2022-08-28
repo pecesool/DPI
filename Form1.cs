@@ -18,6 +18,9 @@ namespace DPI
         {
             InitializeComponent();
             Animator.Start();
+            egoldsGoogleTextBox2.UseSystemPasswordChar= true;
+            
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
