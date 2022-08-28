@@ -33,21 +33,21 @@ namespace DPI
             this.label3 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.egoldsGoogleTextBox6 = new expert.EgoldsGoogleTextBox();
+            this.egoldsGoogleTextBox5 = new expert.EgoldsGoogleTextBox();
             this.panel2 = new System.Windows.Forms.Panel();
             this.label8 = new System.Windows.Forms.Label();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
-            this.button1 = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
-            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
-            this.toolTip2 = new System.Windows.Forms.ToolTip(this.components);
-            this.egoldsGoogleTextBox6 = new expert.EgoldsGoogleTextBox();
-            this.egoldsGoogleTextBox5 = new expert.EgoldsGoogleTextBox();
             this.egoldsGoogleTextBox4 = new expert.EgoldsGoogleTextBox();
             this.egoldsGoogleTextBox3 = new expert.EgoldsGoogleTextBox();
             this.egoldsGoogleTextBox2 = new expert.EgoldsGoogleTextBox();
             this.egoldsGoogleTextBox1 = new expert.EgoldsGoogleTextBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
+            this.toolTip2 = new System.Windows.Forms.ToolTip(this.components);
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
@@ -90,6 +90,46 @@ namespace DPI
             this.panel1.Size = new System.Drawing.Size(443, 636);
             this.panel1.TabIndex = 90;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
+            // egoldsGoogleTextBox6
+            // 
+            this.egoldsGoogleTextBox6.BackColor = System.Drawing.Color.White;
+            this.egoldsGoogleTextBox6.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(152)))), ((int)(((byte)(219)))));
+            this.egoldsGoogleTextBox6.BorderColorNotActive = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(140)))), ((int)(((byte)(141)))));
+            this.egoldsGoogleTextBox6.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.egoldsGoogleTextBox6.Font = new System.Drawing.Font("Times New Roman", 12.5F);
+            this.egoldsGoogleTextBox6.FontTextPreview = new System.Drawing.Font("Times New Roman", 8F, System.Drawing.FontStyle.Bold);
+            this.egoldsGoogleTextBox6.ForeColor = System.Drawing.Color.Black;
+            this.egoldsGoogleTextBox6.Location = new System.Drawing.Point(36, 91);
+            this.egoldsGoogleTextBox6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.egoldsGoogleTextBox6.Name = "egoldsGoogleTextBox6";
+            this.egoldsGoogleTextBox6.Size = new System.Drawing.Size(371, 53);
+            this.egoldsGoogleTextBox6.TabIndex = 130;
+            this.egoldsGoogleTextBox6.TextInput = "";
+            this.egoldsGoogleTextBox6.TextPreview = "Введите пароль";
+            this.egoldsGoogleTextBox6.UseSystemPasswordChar = false;
+            this.egoldsGoogleTextBox6.TextChanged += new System.EventHandler(this.egoldsGoogleTextBox6_TextChanged);
+            this.egoldsGoogleTextBox6.Click += new System.EventHandler(this.egoldsGoogleTextBox6_Click);
+            // 
+            // egoldsGoogleTextBox5
+            // 
+            this.egoldsGoogleTextBox5.BackColor = System.Drawing.Color.White;
+            this.egoldsGoogleTextBox5.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(152)))), ((int)(((byte)(219)))));
+            this.egoldsGoogleTextBox5.BorderColorNotActive = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(140)))), ((int)(((byte)(141)))));
+            this.egoldsGoogleTextBox5.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.egoldsGoogleTextBox5.Font = new System.Drawing.Font("Times New Roman", 12.5F);
+            this.egoldsGoogleTextBox5.FontTextPreview = new System.Drawing.Font("Times New Roman", 8F, System.Drawing.FontStyle.Bold);
+            this.egoldsGoogleTextBox5.ForeColor = System.Drawing.Color.Black;
+            this.egoldsGoogleTextBox5.Location = new System.Drawing.Point(36, 18);
+            this.egoldsGoogleTextBox5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.egoldsGoogleTextBox5.Name = "egoldsGoogleTextBox5";
+            this.egoldsGoogleTextBox5.Size = new System.Drawing.Size(371, 53);
+            this.egoldsGoogleTextBox5.TabIndex = 129;
+            this.egoldsGoogleTextBox5.TextInput = "";
+            this.egoldsGoogleTextBox5.TextPreview = "Введите логин";
+            this.egoldsGoogleTextBox5.UseSystemPasswordChar = false;
+            this.egoldsGoogleTextBox5.TextChanged += new System.EventHandler(this.egoldsGoogleTextBox5_TextChanged);
+            this.egoldsGoogleTextBox5.Click += new System.EventHandler(this.egoldsGoogleTextBox5_Click);
             // 
             // panel2
             // 
@@ -151,71 +191,6 @@ namespace DPI
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(371, 23);
             this.progressBar1.TabIndex = 126;
-            // 
-            // button1
-            // 
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Times New Roman", 13.8F);
-            this.button1.Location = new System.Drawing.Point(36, 580);
-            this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(371, 41);
-            this.button1.TabIndex = 116;
-            this.button1.Text = "Сохранить";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.SystemColors.Highlight;
-            this.label1.Font = new System.Drawing.Font("Verdana", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.ForeColor = System.Drawing.Color.Lavender;
-            this.label1.Location = new System.Drawing.Point(476, 15);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(34, 34);
-            this.label1.TabIndex = 91;
-            this.label1.Text = "Х";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
-            // 
-            // egoldsGoogleTextBox6
-            // 
-            this.egoldsGoogleTextBox6.BackColor = System.Drawing.Color.White;
-            this.egoldsGoogleTextBox6.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(152)))), ((int)(((byte)(219)))));
-            this.egoldsGoogleTextBox6.BorderColorNotActive = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(140)))), ((int)(((byte)(141)))));
-            this.egoldsGoogleTextBox6.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.egoldsGoogleTextBox6.Font = new System.Drawing.Font("Times New Roman", 12.5F);
-            this.egoldsGoogleTextBox6.FontTextPreview = new System.Drawing.Font("Times New Roman", 8F, System.Drawing.FontStyle.Bold);
-            this.egoldsGoogleTextBox6.ForeColor = System.Drawing.Color.Black;
-            this.egoldsGoogleTextBox6.Location = new System.Drawing.Point(36, 91);
-            this.egoldsGoogleTextBox6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.egoldsGoogleTextBox6.Name = "egoldsGoogleTextBox6";
-            this.egoldsGoogleTextBox6.Size = new System.Drawing.Size(371, 53);
-            this.egoldsGoogleTextBox6.TabIndex = 130;
-            this.egoldsGoogleTextBox6.TextInput = "";
-            this.egoldsGoogleTextBox6.TextPreview = "Введите пароль";
-            this.egoldsGoogleTextBox6.UseSystemPasswordChar = false;
-            this.egoldsGoogleTextBox6.TextChanged += new System.EventHandler(this.egoldsGoogleTextBox6_TextChanged);
-            this.egoldsGoogleTextBox6.Click += new System.EventHandler(this.egoldsGoogleTextBox6_Click);
-            // 
-            // egoldsGoogleTextBox5
-            // 
-            this.egoldsGoogleTextBox5.BackColor = System.Drawing.Color.White;
-            this.egoldsGoogleTextBox5.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(152)))), ((int)(((byte)(219)))));
-            this.egoldsGoogleTextBox5.BorderColorNotActive = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(140)))), ((int)(((byte)(141)))));
-            this.egoldsGoogleTextBox5.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.egoldsGoogleTextBox5.Font = new System.Drawing.Font("Times New Roman", 12.5F);
-            this.egoldsGoogleTextBox5.FontTextPreview = new System.Drawing.Font("Times New Roman", 8F, System.Drawing.FontStyle.Bold);
-            this.egoldsGoogleTextBox5.ForeColor = System.Drawing.Color.Black;
-            this.egoldsGoogleTextBox5.Location = new System.Drawing.Point(36, 18);
-            this.egoldsGoogleTextBox5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.egoldsGoogleTextBox5.Name = "egoldsGoogleTextBox5";
-            this.egoldsGoogleTextBox5.Size = new System.Drawing.Size(371, 53);
-            this.egoldsGoogleTextBox5.TabIndex = 129;
-            this.egoldsGoogleTextBox5.TextInput = "";
-            this.egoldsGoogleTextBox5.TextPreview = "Введите логин";
-            this.egoldsGoogleTextBox5.UseSystemPasswordChar = false;
-            this.egoldsGoogleTextBox5.TextChanged += new System.EventHandler(this.egoldsGoogleTextBox5_TextChanged);
             // 
             // egoldsGoogleTextBox4
             // 
@@ -292,6 +267,33 @@ namespace DPI
             this.egoldsGoogleTextBox1.TextPreview = "Введите имя преподавателя";
             this.egoldsGoogleTextBox1.UseSystemPasswordChar = false;
             this.egoldsGoogleTextBox1.TextChanged += new System.EventHandler(this.egoldsGoogleTextBox1_TextChanged);
+            this.egoldsGoogleTextBox1.Click += new System.EventHandler(this.egoldsGoogleTextBox1_Click);
+            // 
+            // button1
+            // 
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Times New Roman", 13.8F);
+            this.button1.Location = new System.Drawing.Point(36, 580);
+            this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(371, 41);
+            this.button1.TabIndex = 116;
+            this.button1.Text = "Сохранить";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.SystemColors.Highlight;
+            this.label1.Font = new System.Drawing.Font("Verdana", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label1.ForeColor = System.Drawing.Color.Lavender;
+            this.label1.Location = new System.Drawing.Point(476, 15);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(34, 34);
+            this.label1.TabIndex = 91;
+            this.label1.Text = "Х";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // registr
             // 
